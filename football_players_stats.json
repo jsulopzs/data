@@ -1,0 +1,38 @@
+{
+  "CR7": {
+    "partidos": 923,
+    "goles": 689,
+    "asistencias": 231,
+    "tarjetas amarillas": 112,
+    "tarjetas rojas": 7,
+    "segundas amarillas": 4,
+    "minutos jugados": 75372
+  },
+  "Messi": {
+    "partidos": 800,
+    "goles": 679,
+    "asistencias": 312,
+    "tarjetas amarillas": 82,
+    "tarjetas rojas": 1,
+    "segundas amarillas": 0,
+    "minutos jugados": 65299
+  },
+  "Lewandowski": {
+    "partidos": 662,
+    "goles": 498,
+    "asistencias": 131,
+    "tarjetas amarillas": 68,
+    "tarjetas rojas": 0,
+    "segundas amarillas": 1,
+    "minutos jugados": 65299
+  },
+  "Benzema": {
+    "partidos": 737,
+    "goles": 370,
+    "asistencias": 182,
+    "tarjetas amarillas": 15,
+    "tarjetas rojas": 0,
+    "segundas amarillas": 0,
+    "minutos jugados": 52245
+  }
+}
