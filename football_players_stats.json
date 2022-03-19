@@ -6,7 +6,8 @@
     "tarjetas amarillas": 112,
     "tarjetas rojas": 7,
     "segundas amarillas": 4,
-    "minutos jugados": 75372
+    "minutos jugados": 75372,
+    "birthday": "1985-02-05"
   },
   "Messi": {
     "partidos": 800,
@@ -15,7 +16,8 @@
     "tarjetas amarillas": 82,
     "tarjetas rojas": 1,
     "segundas amarillas": 0,
-    "minutos jugados": 65299
+    "minutos jugados": 65299,
+    "birthday": "1987-06-24"
   },
   "Lewandowski": {
     "partidos": 662,
@@ -24,7 +26,8 @@
     "tarjetas amarillas": 68,
     "tarjetas rojas": 0,
     "segundas amarillas": 1,
-    "minutos jugados": 65299
+    "minutos jugados": 65299,
+    "birthday": "1988-08-21"
   },
   "Benzema": {
     "partidos": 737,
@@ -33,6 +36,7 @@
     "tarjetas amarillas": 15,
     "tarjetas rojas": 0,
     "segundas amarillas": 0,
-    "minutos jugados": 52245
+    "minutos jugados": 52245,
+    "birthday": "1987-12-19"
   }
 }
