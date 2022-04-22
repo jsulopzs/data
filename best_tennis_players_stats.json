@@ -1,1 +1,26 @@
-{"income":{"roger":130,"rafa":127,"nole":154},"titles":{"roger":103,"rafa":90,"nole":86},"grand slams":{"roger":20,"rafa":21,"nole":20},"turned professional":{"roger":1998,"rafa":2001,"nole":2003},"wins":{"roger":1251,"rafa":1038,"nole":989},"losses":{"roger":275,"rafa":209,"nole":199}}
+{
+ "roger":{
+  "income":130,
+  "titles":103,
+  "grand slams":20,
+  "turned professional":1998,
+  "wins":1251,
+  "losses":275
+ },
+ "rafa":{
+  "income":127,
+  "titles":90,
+  "grand slams":21,
+  "turned professional":2001,
+  "wins":1038,
+  "losses":209
+ },
+ "nole":{
+  "income":154,
+  "titles":86,
+  "grand slams":20,
+  "turned professional":2003,
+  "wins":989,
+  "losses":199
+ }
+}
