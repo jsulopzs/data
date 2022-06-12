@@ -1,42 +1,42 @@
 {
   "CR7": {
-    "partidos": 923,
-    "goles": 689,
-    "asistencias": 231,
-    "tarjetas amarillas": 112,
-    "tarjetas rojas": 7,
-    "segundas amarillas": 4,
-    "minutos jugados": 75372,
-    "birthday": "1985-02-05"
+    "Matches": 923,
+    "Goals": 689,
+    "Assists": 231,
+    "Yellows": 112,
+    "Reds": 7,
+    "Yellows2": 4,
+    "Minutes": 75372,
+    "Birthday": "1985-02-05"
   },
   "Messi": {
-    "partidos": 800,
-    "goles": 679,
-    "asistencias": 312,
-    "tarjetas amarillas": 82,
-    "tarjetas rojas": 1,
-    "segundas amarillas": 0,
-    "minutos jugados": 65299,
-    "birthday": "1987-06-24"
+    "Matches": 800,
+    "Goals": 679,
+    "Assists": 312,
+    "Yellows": 82,
+    "Reds": 1,
+    "Yellows2": 0,
+    "Minutes": 65299,
+    "Birthday": "1987-06-24"
   },
   "Lewandowski": {
-    "partidos": 662,
-    "goles": 498,
-    "asistencias": 131,
-    "tarjetas amarillas": 68,
-    "tarjetas rojas": 0,
-    "segundas amarillas": 1,
-    "minutos jugados": 65299,
-    "birthday": "1988-08-21"
+    "Matches": 662,
+    "Goals": 498,
+    "Assists": 131,
+    "Yellows": 68,
+    "Reds": 0,
+    "Yellows2": 1,
+    "Minutes": 65299,
+    "Birthday": "1988-08-21"
   },
   "Benzema": {
-    "partidos": 737,
-    "goles": 370,
-    "asistencias": 182,
-    "tarjetas amarillas": 15,
-    "tarjetas rojas": 0,
-    "segundas amarillas": 0,
-    "minutos jugados": 52245,
-    "birthday": "1987-12-19"
+    "Matches": 737,
+    "Goals": 370,
+    "Assists": 182,
+    "Yellows": 15,
+    "Reds": 0,
+    "Yellows2": 0,
+    "Minutes": 52245,
+    "Birthday": "1987-12-19"
   }
 }
